@@ -42,17 +42,18 @@ jobs:
         import random
         from datetime import datetime
         from pathlib import Path
-        from unittest.mock import patch
-        from pokemon_api import fetch_random_pokemon
+        from pokemon_api import fetch_pokemon
 
         MAX_POKEMON_ID = 1025
         state_file = Path('pokemon_data/rotation.json')
 
-        # Load the remaining IDs from the previous run. If there is no state
-        # yet (or the previous cycle is complete), create a fresh shuffled deck.
+        # Load unused IDs from the previous run. If there is no state yet,
+        # or a full cycle has been completed, start a new shuffled deck.
         remaining = []
         cycle = 1
-        if state_file.exists():
+        had_state = state_file.exists()
+
+        if had_state:
             try:
                 state = json.loads(state_file.read_text())
                 remaining = state.get('remaining', [])
@@ -63,15 +64,11 @@ jobs:
         if not remaining:
             remaining = list(range(1, MAX_POKEMON_ID + 1))
             random.shuffle(remaining)
-            if state_file.exists():
+            if had_state:
                 cycle += 1
 
         pokemon_id = remaining.pop()
-
-        # Keep the existing API/output behavior, but force the selected ID
-        # instead of allowing fetch_random_pokemon() to pick another random one.
-        with patch('random.randint', return_value=pokemon_id):
-            pokemon_data = fetch_random_pokemon()
+        pokemon_data = fetch_pokemon(pokemon_id)
 
         now = datetime.now()
         data_entry = {
@@ -79,11 +76,12 @@ jobs:
             'pokemon_data': pokemon_data
         }
 
-        # Save to response.json for TRMNL polling.
+        # Preserve the existing response shape so the TRMNL plugin does not
+        # need to change its polling URL or Liquid template.
         with open('pokemon_data/response.json', 'w') as f:
             json.dump(data_entry, f, indent=2)
 
-        # Persist the unused IDs so no Pokemon repeats during this cycle.
+        # Persist the unused IDs so none repeat until all 1,025 have appeared.
         state = {
             'cycle': cycle,
             'last_pokemon_id': pokemon_id,
