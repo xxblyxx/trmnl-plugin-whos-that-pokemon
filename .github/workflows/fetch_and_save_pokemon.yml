@@ -35,31 +35,68 @@ jobs:
         mkdir -p logs
         mkdir -p pokemon_data
     
-    - name: Fetch random Pokemon and save response
+    - name: Fetch next Pokemon in no-repeat rotation and save response
       run: |
-        python -c "
+        python - <<'PY'
         import json
+        import random
         from datetime import datetime
-        from pokemon_api import fetch_random_pokemon
-        
-        # Fetch Pokemon data
-        pokemon_data = fetch_random_pokemon()
-        
-        # Create data entry
+        from pathlib import Path
+        from pokemon_api import fetch_pokemon
+
+        MAX_POKEMON_ID = 1025
+        state_file = Path('pokemon_data/rotation.json')
+
+        # Load unused IDs from the previous run. If there is no state yet,
+        # or a full cycle has been completed, start a new shuffled deck.
+        remaining = []
+        cycle = 1
+        had_state = state_file.exists()
+
+        if had_state:
+            try:
+                state = json.loads(state_file.read_text())
+                remaining = state.get('remaining', [])
+                cycle = state.get('cycle', 1)
+            except (json.JSONDecodeError, OSError):
+                remaining = []
+
+        if not remaining:
+            remaining = list(range(1, MAX_POKEMON_ID + 1))
+            random.shuffle(remaining)
+            if had_state:
+                cycle += 1
+
+        pokemon_id = remaining.pop()
+        pokemon_data = fetch_pokemon(pokemon_id)
+
+        now = datetime.now()
         data_entry = {
-            'timestamp': datetime.now().isoformat(),
+            'timestamp': now.isoformat(),
             'pokemon_data': pokemon_data
         }
 
-        # Save to response.json for polling
+        # Preserve the existing response shape so the TRMNL plugin does not
+        # need to change its polling URL or Liquid template.
         with open('pokemon_data/response.json', 'w') as f:
             json.dump(data_entry, f, indent=2)
-        
-         # Save to log file with today's date
-        log_file = f'logs/pokemon_{datetime.now().strftime(\"%Y-%m-%d\")}.json'
+
+        # Persist the unused IDs so none repeat until all 1,025 have appeared.
+        state = {
+            'cycle': cycle,
+            'last_pokemon_id': pokemon_id,
+            'remaining_count': len(remaining),
+            'remaining': remaining
+        }
+        state_file.write_text(json.dumps(state, indent=2))
+
+        # Keep the existing dated log behavior.
+        log_file = f'logs/pokemon_{now.strftime("%Y-%m-%d")}.json'
         with open(log_file, 'w') as f:
             json.dump(data_entry, f, indent=2)
-        "
+
+        print(f'Selected Pokemon ID {pokemon_id}; {len(remaining)} remain in cycle {cycle}.')
+        PY
 
     - name: Commit and push latest Pokemon
       env:
@@ -67,7 +104,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add pokemon_data/response.json
+        git add pokemon_data/response.json pokemon_data/rotation.json
         git commit -m "Update Pokemon of the day" || exit 0
         git push
     
