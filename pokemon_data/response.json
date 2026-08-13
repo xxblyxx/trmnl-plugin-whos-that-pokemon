@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-12T13:19:28.649337",
+  "timestamp": "2026-08-13T13:21:23.309788",
   "pokemon_data": {
-    "id": "0761",
-    "name": "Bounsweet",
-    "types": "Grass",
-    "species": "Fruit Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "3.2 kg",
-    "abilities": "Leaf-Guard, Oblivious, Sweet-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png"
+    "id": "0053",
+    "name": "Persian",
+    "types": "Normal",
+    "species": "Classy Cat Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "32.0 kg",
+    "abilities": "Limber, Technician, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
   }
 }
