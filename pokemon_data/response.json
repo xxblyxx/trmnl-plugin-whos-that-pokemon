@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-16T12:47:44.889117",
+  "timestamp": "2026-08-17T12:52:44.068585",
   "pokemon_data": {
-    "id": "0314",
-    "name": "Illumise",
-    "types": "Bug",
-    "species": "Firefly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "17.7 kg",
-    "abilities": "Oblivious, Tinted-Lens, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+    "id": "0475",
+    "name": "Gallade",
+    "types": "Psychic, Fighting",
+    "species": "Blade Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "52.0 kg",
+    "abilities": "Steadfast, Sharpness, Justified",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
   }
 }
