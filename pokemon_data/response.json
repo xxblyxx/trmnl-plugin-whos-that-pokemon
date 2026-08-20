@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-19T12:55:33.621725",
+  "timestamp": "2026-08-20T12:56:54.433070",
   "pokemon_data": {
-    "id": "0040",
-    "name": "Wigglytuff",
-    "types": "Normal, Fairy",
-    "species": "Balloon Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "12.0 kg",
-    "abilities": "Cute-Charm, Competitive, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+    "id": "0454",
+    "name": "Toxicroak",
+    "types": "Poison, Fighting",
+    "species": "Toxic Mouth Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "44.4 kg",
+    "abilities": "Anticipation, Dry-Skin, Poison-Touch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
   }
 }
