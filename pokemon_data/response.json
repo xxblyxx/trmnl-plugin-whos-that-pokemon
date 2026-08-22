@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-21T12:55:59.637626",
+  "timestamp": "2026-08-22T12:47:31.076542",
   "pokemon_data": {
-    "id": "0527",
-    "name": "Woobat",
-    "types": "Psychic, Flying",
-    "species": "Bat Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "2.1 kg",
-    "abilities": "Simple, Klutz, Unaware",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+    "id": "0136",
+    "name": "Flareon",
+    "types": "Fire",
+    "species": "Flame Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "25.0 kg",
+    "abilities": "Flash-Fire, Guts",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
   }
 }
