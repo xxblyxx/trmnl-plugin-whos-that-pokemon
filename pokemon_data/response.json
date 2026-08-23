@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-22T12:47:31.076542",
+  "timestamp": "2026-08-23T12:48:40.942137",
   "pokemon_data": {
-    "id": "0136",
-    "name": "Flareon",
-    "types": "Fire",
-    "species": "Flame Pok\u00e9mon",
-    "height": "0.9 m",
-    "weight": "25.0 kg",
-    "abilities": "Flash-Fire, Guts",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+    "id": "0024",
+    "name": "Arbok",
+    "types": "Poison",
+    "species": "Cobra Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "65.0 kg",
+    "abilities": "Intimidate, Shed-Skin, Unnerve",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
   }
 }
