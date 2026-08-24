@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-23T12:48:40.942137",
+  "timestamp": "2026-08-24T12:58:06.472136",
   "pokemon_data": {
-    "id": "0024",
-    "name": "Arbok",
-    "types": "Poison",
-    "species": "Cobra Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "65.0 kg",
-    "abilities": "Intimidate, Shed-Skin, Unnerve",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+    "id": "0377",
+    "name": "Regirock",
+    "types": "Rock",
+    "species": "Rock Peak Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "230.0 kg",
+    "abilities": "Clear-Body, Sturdy",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
   }
 }
