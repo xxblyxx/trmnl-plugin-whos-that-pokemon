@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-26T13:00:35.601256",
+  "timestamp": "2026-08-27T22:02:49.654366",
   "pokemon_data": {
-    "id": "0297",
-    "name": "Hariyama",
-    "types": "Fighting",
-    "species": "Arm Thrust Pok\u00e9mon",
-    "height": "2.3 m",
-    "weight": "253.8 kg",
-    "abilities": "Thick-Fat, Guts, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
+    "id": "0832",
+    "name": "Dubwool",
+    "types": "Normal",
+    "species": "Sheep Pok\u00e9mon",
+    "height": "1.3 m",
+    "weight": "43.0 kg",
+    "abilities": "Fluffy, Steadfast, Bulletproof",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png"
   }
 }
