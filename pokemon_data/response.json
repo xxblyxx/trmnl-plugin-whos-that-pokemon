@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-28T21:59:30.858340",
+  "timestamp": "2026-08-29T16:29:40.837368",
   "pokemon_data": {
-    "id": "0971",
-    "name": "Greavard",
-    "types": "Ghost",
-    "species": "Ghost Dog Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "35.0 kg",
-    "abilities": "Pickup, Fluffy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+    "id": "0463",
+    "name": "Lickilicky",
+    "types": "Normal",
+    "species": "Licking Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "140.0 kg",
+    "abilities": "Own-Tempo, Oblivious, Cloud-Nine",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
   }
 }
