@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T16:18:03.921716",
+  "timestamp": "2026-09-03T16:08:51.801654",
   "pokemon_data": {
-    "id": "0658",
-    "name": "Greninja",
-    "types": "Water, Dark",
-    "species": "Ninja Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "40.0 kg",
-    "abilities": "Torrent, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+    "id": "1020",
+    "name": "Gouging-Fire",
+    "types": "Fire, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "590.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png"
   }
 }
