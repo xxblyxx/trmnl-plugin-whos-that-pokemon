@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-05T14:53:27.457404",
+  "timestamp": "2026-09-06T15:13:50.320763",
   "pokemon_data": {
-    "id": "0037",
-    "name": "Vulpix",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "9.9 kg",
-    "abilities": "Flash-Fire, Drought",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+    "id": "0633",
+    "name": "Deino",
+    "types": "Dark, Dragon",
+    "species": "Irate Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "17.3 kg",
+    "abilities": "Hustle",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
   }
 }
