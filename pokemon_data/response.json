@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-06T15:13:50.320763",
+  "timestamp": "2026-09-07T17:34:59.966885",
   "pokemon_data": {
-    "id": "0633",
-    "name": "Deino",
-    "types": "Dark, Dragon",
-    "species": "Irate Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "17.3 kg",
-    "abilities": "Hustle",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+    "id": "0890",
+    "name": "Eternatus",
+    "types": "Poison, Dragon",
+    "species": "Gigantic Pok\u00e9mon",
+    "height": "20.0 m",
+    "weight": "950.0 kg",
+    "abilities": "Pressure",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
   }
 }
