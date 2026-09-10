@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-09T16:16:32.587571",
+  "timestamp": "2026-09-10T16:07:43.030244",
   "pokemon_data": {
-    "id": "0646",
-    "name": "Kyurem",
-    "types": "Dragon, Ice",
-    "species": "Boundary Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "325.0 kg",
-    "abilities": "Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png"
+    "id": "0672",
+    "name": "Skiddo",
+    "types": "Grass",
+    "species": "Mount Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "31.0 kg",
+    "abilities": "Sap-Sipper, Grass-Pelt",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png"
   }
 }
