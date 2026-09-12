@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-11T16:11:19.453655",
+  "timestamp": "2026-09-12T15:18:18.315558",
   "pokemon_data": {
-    "id": "0605",
-    "name": "Elgyem",
-    "types": "Psychic",
-    "species": "Cerebral Pok\u00e9mon",
+    "id": "0039",
+    "name": "Jigglypuff",
+    "types": "Normal, Fairy",
+    "species": "Balloon Pok\u00e9mon",
     "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Telepathy, Synchronize, Analytic",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
+    "weight": "5.5 kg",
+    "abilities": "Cute-Charm, Competitive, Friend-Guard",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
   }
 }
