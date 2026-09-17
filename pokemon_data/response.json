@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-16T16:31:13.673017",
+  "timestamp": "2026-09-17T16:36:49.556944",
   "pokemon_data": {
-    "id": "0128",
-    "name": "Tauros",
-    "types": "Normal",
-    "species": "Wild Bull Pok\u00e9mon",
+    "id": "0444",
+    "name": "Gabite",
+    "types": "Dragon, Ground",
+    "species": "Cave Pok\u00e9mon",
     "height": "1.4 m",
-    "weight": "88.4 kg",
-    "abilities": "Intimidate, Anger-Point, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+    "weight": "56.0 kg",
+    "abilities": "Sand-Veil, Rough-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png"
   }
 }
