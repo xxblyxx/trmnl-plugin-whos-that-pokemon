@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-20T15:45:40.357453",
+  "timestamp": "2026-09-21T18:03:56.586319",
   "pokemon_data": {
-    "id": "0021",
-    "name": "Spearow",
-    "types": "Normal, Flying",
-    "species": "Tiny Bird Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "2.0 kg",
-    "abilities": "Keen-Eye, Sniper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+    "id": "0246",
+    "name": "Larvitar",
+    "types": "Rock, Ground",
+    "species": "Rock Skin Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "72.0 kg",
+    "abilities": "Guts, Sand-Veil",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
   }
 }
