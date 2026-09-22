@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-21T18:03:56.586319",
+  "timestamp": "2026-09-22T16:38:05.796760",
   "pokemon_data": {
-    "id": "0246",
-    "name": "Larvitar",
-    "types": "Rock, Ground",
-    "species": "Rock Skin Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "72.0 kg",
-    "abilities": "Guts, Sand-Veil",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+    "id": "0080",
+    "name": "Slowbro",
+    "types": "Water, Psychic",
+    "species": "Hermit Crab Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "78.5 kg",
+    "abilities": "Oblivious, Own-Tempo, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
   }
 }
