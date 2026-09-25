@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-24T16:50:50.718390",
+  "timestamp": "2026-09-25T16:55:02.002097",
   "pokemon_data": {
-    "id": "0983",
-    "name": "Kingambit",
-    "types": "Dark, Steel",
-    "species": "Big Blade Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "120.0 kg",
-    "abilities": "Defiant, Supreme-Overlord, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+    "id": "0716",
+    "name": "Xerneas",
+    "types": "Fairy",
+    "species": "Life Pok\u00e9mon",
+    "height": "3.0 m",
+    "weight": "215.0 kg",
+    "abilities": "Fairy-Aura",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
   }
 }
