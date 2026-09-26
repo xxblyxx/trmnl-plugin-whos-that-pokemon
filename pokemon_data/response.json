@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-25T16:55:02.002097",
+  "timestamp": "2026-09-26T16:06:03.541234",
   "pokemon_data": {
-    "id": "0716",
-    "name": "Xerneas",
-    "types": "Fairy",
-    "species": "Life Pok\u00e9mon",
-    "height": "3.0 m",
-    "weight": "215.0 kg",
-    "abilities": "Fairy-Aura",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+    "id": "0883",
+    "name": "Arctovish",
+    "types": "Water, Ice",
+    "species": "Fossil Pok\u00e9mon",
+    "height": "2.0 m",
+    "weight": "175.0 kg",
+    "abilities": "Water-Absorb, Ice-Body, Slush-Rush",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png"
   }
 }
