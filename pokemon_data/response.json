@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-26T16:06:03.541234",
+  "timestamp": "2026-09-27T16:42:50.808689",
   "pokemon_data": {
-    "id": "0883",
-    "name": "Arctovish",
-    "types": "Water, Ice",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "2.0 m",
-    "weight": "175.0 kg",
-    "abilities": "Water-Absorb, Ice-Body, Slush-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png"
+    "id": "0514",
+    "name": "Simisear",
+    "types": "Fire",
+    "species": "Ember Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "28.0 kg",
+    "abilities": "Gluttony, Blaze",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
   }
 }
