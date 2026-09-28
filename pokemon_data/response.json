@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-27T16:42:50.808689",
+  "timestamp": "2026-09-28T19:27:54.577623",
   "pokemon_data": {
-    "id": "0514",
-    "name": "Simisear",
-    "types": "Fire",
-    "species": "Ember Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "28.0 kg",
-    "abilities": "Gluttony, Blaze",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+    "id": "0613",
+    "name": "Cubchoo",
+    "types": "Ice",
+    "species": "Chill Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "8.5 kg",
+    "abilities": "Snow-Cloak, Slush-Rush, Rattled",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
   }
 }
