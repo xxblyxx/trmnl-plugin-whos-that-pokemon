@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-29T17:54:33.242380",
+  "timestamp": "2026-09-30T17:50:21.197361",
   "pokemon_data": {
-    "id": "0609",
-    "name": "Chandelure",
-    "types": "Ghost, Fire",
-    "species": "Luring Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "34.3 kg",
-    "abilities": "Flash-Fire, Flame-Body, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
+    "id": "0681",
+    "name": "Aegislash-Shield",
+    "types": "Steel, Ghost",
+    "species": "Royal Sword Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "53.0 kg",
+    "abilities": "Stance-Change",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
   }
 }
