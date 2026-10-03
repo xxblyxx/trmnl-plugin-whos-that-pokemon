@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-02T17:41:10.798412",
+  "timestamp": "2026-10-03T15:59:31.788203",
   "pokemon_data": {
-    "id": "0384",
-    "name": "Rayquaza",
-    "types": "Dragon, Flying",
-    "species": "Sky High Pok\u00e9mon",
-    "height": "7.0 m",
-    "weight": "206.5 kg",
-    "abilities": "Air-Lock",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png"
+    "id": "0749",
+    "name": "Mudbray",
+    "types": "Ground",
+    "species": "Donkey Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "110.0 kg",
+    "abilities": "Own-Tempo, Stamina, Inner-Focus",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
   }
 }
