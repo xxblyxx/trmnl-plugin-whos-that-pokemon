@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-03T15:59:31.788203",
+  "timestamp": "2026-10-04T16:40:45.250970",
   "pokemon_data": {
-    "id": "0749",
-    "name": "Mudbray",
-    "types": "Ground",
-    "species": "Donkey Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "110.0 kg",
-    "abilities": "Own-Tempo, Stamina, Inner-Focus",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+    "id": "0630",
+    "name": "Mandibuzz",
+    "types": "Dark, Flying",
+    "species": "Bone Vulture Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "39.5 kg",
+    "abilities": "Big-Pecks, Overcoat, Weak-Armor",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
   }
 }
