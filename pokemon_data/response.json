@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-06T18:08:41.892664",
+  "timestamp": "2026-10-07T18:42:01.734894",
   "pokemon_data": {
-    "id": "0786",
-    "name": "Tapu-Lele",
-    "types": "Psychic, Fairy",
-    "species": "Land Spirit Pok\u00e9mon",
+    "id": "0676",
+    "name": "Furfrou",
+    "types": "Normal",
+    "species": "Poodle Pok\u00e9mon",
     "height": "1.2 m",
-    "weight": "18.6 kg",
-    "abilities": "Psychic-Surge, Telepathy",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+    "weight": "28.0 kg",
+    "abilities": "Fur-Coat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
   }
 }
