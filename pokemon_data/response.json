@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-09T18:11:12.440738",
+  "timestamp": "2026-10-10T17:10:09.506117",
   "pokemon_data": {
-    "id": "0085",
-    "name": "Dodrio",
-    "types": "Normal, Flying",
-    "species": "Triple Bird Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "85.2 kg",
-    "abilities": "Run-Away, Early-Bird, Tangled-Feet",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+    "id": "0945",
+    "name": "Grafaiai",
+    "types": "Poison, Normal",
+    "species": "Toxic Monkey Pok\u00e9mon",
+    "height": "0.7 m",
+    "weight": "27.2 kg",
+    "abilities": "Unburden, Poison-Touch, Prankster",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
   }
 }
