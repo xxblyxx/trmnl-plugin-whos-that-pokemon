@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-10T17:10:09.506117",
+  "timestamp": "2026-10-11T17:33:13.135632",
   "pokemon_data": {
-    "id": "0945",
-    "name": "Grafaiai",
-    "types": "Poison, Normal",
-    "species": "Toxic Monkey Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "27.2 kg",
-    "abilities": "Unburden, Poison-Touch, Prankster",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+    "id": "0720",
+    "name": "Hoopa",
+    "types": "Psychic, Ghost",
+    "species": "Mischief Pok\u00e9mon",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "abilities": "Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
   }
 }
