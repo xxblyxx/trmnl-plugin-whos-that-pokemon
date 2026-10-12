@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-11T17:33:13.135632",
+  "timestamp": "2026-10-12T21:06:39.783785",
   "pokemon_data": {
-    "id": "0720",
-    "name": "Hoopa",
-    "types": "Psychic, Ghost",
-    "species": "Mischief Pok\u00e9mon",
-    "height": "0.5 m",
-    "weight": "9.0 kg",
-    "abilities": "Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+    "id": "0552",
+    "name": "Krokorok",
+    "types": "Ground, Dark",
+    "species": "Desert Croc Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "33.4 kg",
+    "abilities": "Intimidate, Moxie, Anger-Point",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
   }
 }
