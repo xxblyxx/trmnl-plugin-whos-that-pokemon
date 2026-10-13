@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-12T21:06:39.783785",
+  "timestamp": "2026-10-13T19:05:23.812964",
   "pokemon_data": {
-    "id": "0552",
-    "name": "Krokorok",
-    "types": "Ground, Dark",
-    "species": "Desert Croc Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "33.4 kg",
-    "abilities": "Intimidate, Moxie, Anger-Point",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+    "id": "0356",
+    "name": "Dusclops",
+    "types": "Ghost",
+    "species": "Beckon Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "30.6 kg",
+    "abilities": "Pressure, Frisk",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
   }
 }
