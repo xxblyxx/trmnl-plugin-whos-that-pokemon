@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T19:05:23.812964",
+  "timestamp": "2026-10-14T16:53:00.801100",
   "pokemon_data": {
-    "id": "0356",
-    "name": "Dusclops",
-    "types": "Ghost",
-    "species": "Beckon Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "30.6 kg",
-    "abilities": "Pressure, Frisk",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png"
+    "id": "0953",
+    "name": "Rellor",
+    "types": "Bug",
+    "species": "Rolling Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.0 kg",
+    "abilities": "Compound-Eyes, Shed-Skin",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
   }
 }
