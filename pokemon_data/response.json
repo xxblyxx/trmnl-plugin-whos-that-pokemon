@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T16:53:00.801100",
+  "timestamp": "2026-10-15T16:39:20.418049",
   "pokemon_data": {
-    "id": "0953",
-    "name": "Rellor",
-    "types": "Bug",
-    "species": "Rolling Pok\u00e9mon",
-    "height": "0.2 m",
-    "weight": "1.0 kg",
-    "abilities": "Compound-Eyes, Shed-Skin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
+    "id": "0175",
+    "name": "Togepi",
+    "types": "Fairy",
+    "species": "Spike Ball Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "1.5 kg",
+    "abilities": "Hustle, Serene-Grace, Super-Luck",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
   }
 }
