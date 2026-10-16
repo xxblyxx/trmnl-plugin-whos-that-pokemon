@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-15T16:39:20.418049",
+  "timestamp": "2026-10-16T16:22:16.572486",
   "pokemon_data": {
-    "id": "0175",
-    "name": "Togepi",
-    "types": "Fairy",
-    "species": "Spike Ball Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "1.5 kg",
-    "abilities": "Hustle, Serene-Grace, Super-Luck",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+    "id": "0093",
+    "name": "Haunter",
+    "types": "Ghost, Poison",
+    "species": "Gas Pok\u00e9mon",
+    "height": "1.6 m",
+    "weight": "0.1 kg",
+    "abilities": "Levitate",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
   }
 }
