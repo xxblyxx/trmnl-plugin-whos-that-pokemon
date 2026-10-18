@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-17T15:16:49.161212",
+  "timestamp": "2026-10-18T15:38:24.091234",
   "pokemon_data": {
-    "id": "0374",
-    "name": "Beldum",
-    "types": "Steel, Psychic",
-    "species": "Iron Ball Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "95.2 kg",
-    "abilities": "Clear-Body, Light-Metal",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png"
+    "id": "0269",
+    "name": "Dustox",
+    "types": "Bug, Poison",
+    "species": "Poison Moth Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "31.6 kg",
+    "abilities": "Shield-Dust, Compound-Eyes",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png"
   }
 }
