@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-21T16:55:02.466032",
+  "timestamp": "2026-10-22T16:54:51.657322",
   "pokemon_data": {
-    "id": "0625",
-    "name": "Bisharp",
-    "types": "Dark, Steel",
-    "species": "Sword Blade Pok\u00e9mon",
-    "height": "1.6 m",
-    "weight": "70.0 kg",
-    "abilities": "Defiant, Inner-Focus, Pressure",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+    "id": "0981",
+    "name": "Farigiraf",
+    "types": "Normal, Psychic",
+    "species": "Long Neck Pok\u00e9mon",
+    "height": "3.2 m",
+    "weight": "160.0 kg",
+    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
   }
 }
