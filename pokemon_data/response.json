@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-22T16:54:51.657322",
+  "timestamp": "2026-10-23T16:46:45.081305",
   "pokemon_data": {
-    "id": "0981",
-    "name": "Farigiraf",
-    "types": "Normal, Psychic",
-    "species": "Long Neck Pok\u00e9mon",
-    "height": "3.2 m",
-    "weight": "160.0 kg",
-    "abilities": "Cud-Chew, Armor-Tail, Sap-Sipper",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+    "id": "0926",
+    "name": "Fidough",
+    "types": "Fairy",
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "10.9 kg",
+    "abilities": "Own-Tempo, Klutz",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
   }
 }
