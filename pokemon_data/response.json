@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-23T16:46:45.081305",
+  "timestamp": "2026-10-24T15:39:39.868035",
   "pokemon_data": {
-    "id": "0926",
-    "name": "Fidough",
-    "types": "Fairy",
-    "species": "Puppy Pok\u00e9mon",
-    "height": "0.3 m",
-    "weight": "10.9 kg",
-    "abilities": "Own-Tempo, Klutz",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
+    "id": "0654",
+    "name": "Braixen",
+    "types": "Fire",
+    "species": "Fox Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "14.5 kg",
+    "abilities": "Blaze, Magician",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png"
   }
 }
