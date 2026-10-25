@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-24T15:39:39.868035",
+  "timestamp": "2026-10-25T15:50:15.383560",
   "pokemon_data": {
-    "id": "0654",
-    "name": "Braixen",
-    "types": "Fire",
-    "species": "Fox Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "14.5 kg",
-    "abilities": "Blaze, Magician",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png"
+    "id": "0287",
+    "name": "Slakoth",
+    "types": "Normal",
+    "species": "Slacker Pok\u00e9mon",
+    "height": "0.8 m",
+    "weight": "24.0 kg",
+    "abilities": "Truant",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
   }
 }
