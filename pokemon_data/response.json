@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-25T15:50:15.383560",
+  "timestamp": "2026-10-26T18:30:57.271863",
   "pokemon_data": {
-    "id": "0287",
-    "name": "Slakoth",
-    "types": "Normal",
-    "species": "Slacker Pok\u00e9mon",
-    "height": "0.8 m",
-    "weight": "24.0 kg",
-    "abilities": "Truant",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
+    "id": "0579",
+    "name": "Reuniclus",
+    "types": "Psychic",
+    "species": "Multiplying Pok\u00e9mon",
+    "height": "1.0 m",
+    "weight": "20.1 kg",
+    "abilities": "Overcoat, Magic-Guard, Regenerator",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
   }
 }
