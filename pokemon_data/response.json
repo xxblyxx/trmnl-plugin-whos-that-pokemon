@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-28T18:09:08.237217",
+  "timestamp": "2026-10-29T18:16:09.821121",
   "pokemon_data": {
-    "id": "0031",
-    "name": "Nidoqueen",
-    "types": "Poison, Ground",
-    "species": "Drill Pok\u00e9mon",
-    "height": "1.3 m",
-    "weight": "60.0 kg",
-    "abilities": "Poison-Point, Rivalry, Sheer-Force",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+    "id": "1007",
+    "name": "Koraidon",
+    "types": "Fighting, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "2.5 m",
+    "weight": "303.0 kg",
+    "abilities": "Orichalcum-Pulse",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
   }
 }
