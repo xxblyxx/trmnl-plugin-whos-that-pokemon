@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-02T21:33:55.489582",
+  "timestamp": "2026-11-03T19:17:54.074035",
   "pokemon_data": {
-    "id": "0639",
-    "name": "Terrakion",
-    "types": "Rock, Fighting",
-    "species": "Cavern Pok\u00e9mon",
-    "height": "1.9 m",
-    "weight": "260.0 kg",
-    "abilities": "Justified",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png"
+    "id": "0978",
+    "name": "Tatsugiri-Curly",
+    "types": "Dragon, Water",
+    "species": "Mimicry Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "8.0 kg",
+    "abilities": "Commander, Storm-Drain",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
   }
 }
