@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-05T19:43:52.241391",
+  "timestamp": "2026-11-06T19:06:49.167356",
   "pokemon_data": {
-    "id": "0293",
-    "name": "Whismur",
-    "types": "Normal",
-    "species": "Whisper Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "16.3 kg",
-    "abilities": "Soundproof, Rattled",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png"
+    "id": "0721",
+    "name": "Volcanion",
+    "types": "Fire, Water",
+    "species": "Steam Pok\u00e9mon",
+    "height": "1.7 m",
+    "weight": "195.0 kg",
+    "abilities": "Water-Absorb",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
   }
 }
