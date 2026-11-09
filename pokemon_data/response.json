@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-08T17:47:36.575917",
+  "timestamp": "2026-11-09T22:07:40.477391",
   "pokemon_data": {
-    "id": "0188",
-    "name": "Skiploom",
-    "types": "Grass, Flying",
-    "species": "Cottonweed Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "1.0 kg",
-    "abilities": "Chlorophyll, Leaf-Guard, Infiltrator",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png"
+    "id": "0420",
+    "name": "Cherubi",
+    "types": "Grass",
+    "species": "Cherry Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "3.3 kg",
+    "abilities": "Chlorophyll",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png"
   }
 }
