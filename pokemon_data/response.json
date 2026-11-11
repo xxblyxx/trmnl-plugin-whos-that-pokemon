@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-10T19:29:37.323615",
+  "timestamp": "2026-11-11T19:25:12.096200",
   "pokemon_data": {
-    "id": "0880",
-    "name": "Dracozolt",
-    "types": "Electric, Dragon",
-    "species": "Fossil Pok\u00e9mon",
-    "height": "1.8 m",
-    "weight": "190.0 kg",
-    "abilities": "Volt-Absorb, Hustle, Sand-Rush",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
+    "id": "0991",
+    "name": "Iron-Bundle",
+    "types": "Ice, Water",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "11.0 kg",
+    "abilities": "Quark-Drive",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png"
   }
 }
