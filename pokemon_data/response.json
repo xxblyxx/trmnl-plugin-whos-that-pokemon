@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-12T19:43:08.968450",
+  "timestamp": "2026-11-13T19:25:02.799223",
   "pokemon_data": {
-    "id": "1001",
-    "name": "Wo-Chien",
-    "types": "Dark, Grass",
-    "species": "Ruinous Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "74.2 kg",
-    "abilities": "Tablets-Of-Ruin",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
+    "id": "1009",
+    "name": "Walking-Wake",
+    "types": "Water, Dragon",
+    "species": "Paradox Pok\u00e9mon",
+    "height": "3.5 m",
+    "weight": "280.0 kg",
+    "abilities": "Protosynthesis",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png"
   }
 }
