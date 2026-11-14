@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-13T19:25:02.799223",
+  "timestamp": "2026-11-14T17:49:04.361692",
   "pokemon_data": {
-    "id": "1009",
-    "name": "Walking-Wake",
-    "types": "Water, Dragon",
-    "species": "Paradox Pok\u00e9mon",
-    "height": "3.5 m",
-    "weight": "280.0 kg",
-    "abilities": "Protosynthesis",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png"
+    "id": "0342",
+    "name": "Crawdaunt",
+    "types": "Water, Dark",
+    "species": "Rogue Pok\u00e9mon",
+    "height": "1.1 m",
+    "weight": "32.8 kg",
+    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
   }
 }
