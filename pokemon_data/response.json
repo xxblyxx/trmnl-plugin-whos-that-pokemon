@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-14T17:49:04.361692",
+  "timestamp": "2026-11-15T18:39:41.203749",
   "pokemon_data": {
-    "id": "0342",
-    "name": "Crawdaunt",
-    "types": "Water, Dark",
-    "species": "Rogue Pok\u00e9mon",
-    "height": "1.1 m",
-    "weight": "32.8 kg",
-    "abilities": "Hyper-Cutter, Shell-Armor, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
+    "id": "0734",
+    "name": "Yungoos",
+    "types": "Normal",
+    "species": "Loitering Pok\u00e9mon",
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "abilities": "Stakeout, Strong-Jaw, Adaptability",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
   }
 }
