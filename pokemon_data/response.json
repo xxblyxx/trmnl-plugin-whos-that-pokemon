@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-15T18:39:41.203749",
+  "timestamp": "2026-11-16T21:48:49.424634",
   "pokemon_data": {
-    "id": "0734",
-    "name": "Yungoos",
-    "types": "Normal",
-    "species": "Loitering Pok\u00e9mon",
-    "height": "0.4 m",
-    "weight": "6.0 kg",
-    "abilities": "Stakeout, Strong-Jaw, Adaptability",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+    "id": "0755",
+    "name": "Morelull",
+    "types": "Grass, Fairy",
+    "species": "Illuminating Pok\u00e9mon",
+    "height": "0.2 m",
+    "weight": "1.5 kg",
+    "abilities": "Illuminate, Effect-Spore, Rain-Dish",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png"
   }
 }
