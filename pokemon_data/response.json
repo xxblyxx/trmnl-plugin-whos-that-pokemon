@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-17T20:39:50.040659",
+  "timestamp": "2026-11-18T20:13:57.229800",
   "pokemon_data": {
-    "id": "0651",
-    "name": "Quilladin",
-    "types": "Grass",
-    "species": "Spiny Armor Pok\u00e9mon",
-    "height": "0.7 m",
-    "weight": "29.0 kg",
-    "abilities": "Overgrow, Bulletproof",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+    "id": "0060",
+    "name": "Poliwag",
+    "types": "Water",
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.6 m",
+    "weight": "12.4 kg",
+    "abilities": "Water-Absorb, Damp, Swift-Swim",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
   }
 }
