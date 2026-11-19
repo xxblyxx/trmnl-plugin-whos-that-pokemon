@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-18T20:13:57.229800",
+  "timestamp": "2026-11-19T20:17:44.464288",
   "pokemon_data": {
-    "id": "0060",
-    "name": "Poliwag",
-    "types": "Water",
-    "species": "Tadpole Pok\u00e9mon",
+    "id": "0782",
+    "name": "Jangmo-O",
+    "types": "Dragon",
+    "species": "Scaly Pok\u00e9mon",
     "height": "0.6 m",
-    "weight": "12.4 kg",
-    "abilities": "Water-Absorb, Damp, Swift-Swim",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+    "weight": "29.7 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
   }
 }
