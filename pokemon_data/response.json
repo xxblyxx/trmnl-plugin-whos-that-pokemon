@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-19T20:17:44.464288",
+  "timestamp": "2026-11-20T19:49:00.107598",
   "pokemon_data": {
-    "id": "0782",
-    "name": "Jangmo-O",
-    "types": "Dragon",
-    "species": "Scaly Pok\u00e9mon",
-    "height": "0.6 m",
-    "weight": "29.7 kg",
-    "abilities": "Bulletproof, Soundproof, Overcoat",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
+    "id": "0877",
+    "name": "Morpeko-Full-Belly",
+    "types": "Electric, Dark",
+    "species": "Two-Sided Pok\u00e9mon",
+    "height": "0.3 m",
+    "weight": "3.0 kg",
+    "abilities": "Hunger-Switch",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
   }
 }

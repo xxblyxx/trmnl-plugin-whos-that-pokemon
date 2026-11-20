@@ -1,7 +1,7 @@
 {
   "cycle": 1,
-  "last_pokemon_id": 782,
-  "remaining_count": 925,
+  "last_pokemon_id": 877,
+  "remaining_count": 924,
   "remaining": [
     75,
     449,
@@ -926,7 +926,6 @@
     1011,
     764,
     783,
-    649,
-    877
+    649
   ]
 }
