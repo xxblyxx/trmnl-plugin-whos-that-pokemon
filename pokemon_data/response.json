@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-21T18:54:59.663778",
+  "timestamp": "2026-11-22T19:15:19.464951",
   "pokemon_data": {
-    "id": "0649",
-    "name": "Genesect",
-    "types": "Bug, Steel",
-    "species": "Paleozoic Pok\u00e9mon",
-    "height": "1.5 m",
-    "weight": "82.5 kg",
-    "abilities": "Download",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+    "id": "0783",
+    "name": "Hakamo-O",
+    "types": "Dragon, Fighting",
+    "species": "Scaly Pok\u00e9mon",
+    "height": "1.2 m",
+    "weight": "47.0 kg",
+    "abilities": "Bulletproof, Soundproof, Overcoat",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png"
   }
 }
