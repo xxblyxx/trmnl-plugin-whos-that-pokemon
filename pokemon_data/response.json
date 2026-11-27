@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-26T21:11:42.567384",
+  "timestamp": "2026-11-27T20:54:54.046437",
   "pokemon_data": {
-    "id": "0352",
-    "name": "Kecleon",
-    "types": "Normal",
-    "species": "Color Swap Pok\u00e9mon",
-    "height": "1.0 m",
-    "weight": "22.0 kg",
-    "abilities": "Color-Change, Protean",
-    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png"
+    "id": "0711",
+    "name": "Gourgeist-Average",
+    "types": "Ghost, Grass",
+    "species": "Pumpkin Pok\u00e9mon",
+    "height": "0.9 m",
+    "weight": "12.5 kg",
+    "abilities": "Pickup, Frisk, Insomnia",
+    "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
   }
 }
